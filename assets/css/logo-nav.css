@@ -1,0 +1,64 @@
+/*!
+ * Start Bootstrap - Logo Nav (https://startbootstrap.com/template-overviews/logo-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logo-nav/blob/master/LICENSE)
+ */
+
+body {
+	font-family: 'Roboto', sans-serif;
+  	padding-top: 54px;
+}
+
+.content{
+	font-family: 'Roboto', sans-serif;
+  	text-align: center;
+}
+.content p{
+	font-size: 20px;
+	color: grey;
+	font-family: arial;
+}
+
+.training{
+	 text-align: center;
+}
+
+.footer-content{
+	font-family: 'Roboto', sans-serif;
+	width:100%;
+	background: lightgrey;
+	height:100%;
+	}
+.footer-content h6{
+	padding-top: 10px;
+	font-weight: bold;
+}
+
+.footer-content p{
+	font-size: 11pt;
+}
+.training-heading{
+	padding-top: 50px;
+}
+.training-content h3{
+	text-decoration:  underline;
+}
+.training-content p {
+	font-size: 14pt;
+	text-align: justify;
+}
+.training-content li{
+	font-size: 13pt;
+}
+.contact-form{
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
